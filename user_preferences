@@ -1,0 +1,43 @@
+{
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+
+    "tab_size": 4,
+
+    "translate_tabs_to_spaces": true,
+
+    "auto_indent": true,
+
+    "smart_indent": false,
+
+    "use_tab_stops": true,
+
+    "trim_automatic_white_space": true,
+
+    "detect_indentation": true,
+
+    "font_size": 12,
+
+    "highlight_line": true,
+
+    "highlight_modified_tabs": true,
+
+    "bold_folder_labels": true,
+
+    "caret_style": "wide",
+
+    "line_padding_top": 0.5,
+
+    "line_padding_bottom": 0.5,
+
+    "auto_complete": true,
+
+    "auto_complete_size_limit": 4194304,
+
+    "auto_complete_delay": 50,
+
+    "default_encoding": "UTF-8"
+
+}
