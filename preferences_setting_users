@@ -24,7 +24,7 @@
 
     "highlight_modified_tabs": true,
 
-    "bold_folder_labels": true,
+    "bold_folder_labels": false,
 
     "caret_style": "wide",
 
